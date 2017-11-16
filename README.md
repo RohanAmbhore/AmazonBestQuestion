@@ -1,5 +1,5 @@
-# Amazon Best Question
-Amazon Questions
+# Best Question
+
 
 1.) Two Sum ***
 
